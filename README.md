@@ -1,0 +1,1 @@
+# teradata-1yd
